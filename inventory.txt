@@ -1,0 +1,4 @@
+Loafer Light,GoldStar,200,1000,domestic
+Inigo 732,Caliber,100,2800,domestic
+Lite Racer,Adidas,200,7000,international
+Air Force 1,Nike,250,4000,international
